@@ -1,0 +1,116 @@
+<div class="main-wrapper">
+  <div class="header">
+    <div class="header-left">
+      <a href="" class="logo">
+        <img src="assets/img/logo.png" width="35" height="35" alt="" />
+        <span>CMD</span>
+      </a>
+    </div>
+    <a id="toggle_btn" href="javascript:void(0);"><i class="fa fa-bars"></i></a>
+    <a id="mobile_btn" class="mobile_btn float-left" href="#sidebar"
+      ><i class="fa fa-bars"></i
+    ></a>
+    <ul class="nav user-menu float-right">
+      <li class="nav-item dropdown d-none d-sm-block">
+        <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown"
+          ><i class="fa fa-bell-o"></i>
+          <span class="badge badge-pill bg-danger float-right">3</span></a
+        >
+        <div class="dropdown-menu notifications">
+          <div class="topnav-dropdown-header">
+            <span>Notifications</span>
+          </div>
+        </div>
+      </li>
+      <li class="nav-item dropdown d-none d-sm-block">
+        <a
+          href="javascript:void(0);"
+          id="open_msg_box"
+          class="hasnotifications nav-link"
+          ><i class="fa fa-comment-o"></i>
+          <span class="badge badge-pill bg-danger float-right">8</span></a
+        >
+      </li>
+      <li class="nav-item dropdown has-arrow">
+        <a
+          href="#"
+          class="dropdown-toggle nav-link user-link"
+          data-toggle="dropdown"
+        >
+          <span class="user-img">
+            <img
+              class="rounded-circle"
+              src="assets/img/patient4.jpg"
+              width="26"
+              alt="Admin"
+            />
+            <span class="status online"></span>
+          </span>
+          <span>Admin</span>
+        </a>
+        <div class="dropdown-menu">
+          <a class="dropdown-item cursor-pointer" >My Profile</a>
+          <a class="dropdown-item cursor-pointer" >Edit Profile</a>
+          <a class="dropdown-item cursor-pointer" >Settings</a>
+          <a class="dropdown-item cursor-pointer" routerLink="/signup">Logout</a>
+        </div>
+      </li>
+    </ul>
+    <div class="dropdown mobile-user-menu float-right">
+      <a
+        href="#"
+        class="dropdown-toggle"
+        data-toggle="dropdown"
+        aria-expanded="false"
+        ><i class="fa fa-ellipsis-v"></i
+      ></a>
+      <div class="dropdown-menu dropdown-menu-right">
+        <a class="dropdown-item cursor-pointer" >My Profile</a>
+        <a class="dropdown-item cursor-pointer" >Edit Profile</a>
+        <a class="dropdown-item cursor-pointer">Settings</a>
+        <a class="dropdown-item  cursor-pointer" routerLink="/signup">Logout</a>
+      </div>
+    </div>
+  </div>
+  <div class="sidebar" id="sidebar">
+    <div class="sidebar-inner slimscroll">
+      <div id="sidebar-menu" class="sidebar-menu">
+        <ul>
+          <li class="menu-title">Main</li>
+          <li class=" hover:bg-gray-400 hover:bg-opacity-20 hover:text-[#009efb]">
+            <a href=""
+              ><i class="fa fa-dashboard"></i> <span>Dashboard</span></a
+            >
+          </li >
+          <li class=" hover:bg-gray-400 hover:bg-opacity-20 hover:text-[#009efb]">
+            <a href="doctors"
+              ><i class="fa fa-user-md"></i> <span>Doctor</span></a
+            >
+          </li>
+          <li class=" hover:bg-gray-400 hover:bg-opacity-20 hover:text-[#009efb]">
+            <a href="patients"
+              ><i class="fa fa-wheelchair"></i> <span>Patient</span></a
+            >
+          </li>
+          <li class=" hover:bg-gray-400 hover:bg-opacity-20 hover:text-[#009efb]">
+            <a href="allAppointments"
+              ><i class="fa fa-calendar"></i> <span>Appointments</span></a
+            >
+          </li>
+          <li class=" hover:bg-gray-400 hover:bg-opacity-20 hover:text-[#009efb]">
+            <a href="departments"
+              ><i class="fa fa-hospital-o"></i> <span>Departments</span></a
+            >
+          </li>
+          <li class=" hover:bg-gray-400 hover:bg-opacity-20 hover:text-[#009efb]">
+            <a href="departments"
+              ><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-person-fill-gear" viewBox="0 0 16 16">
+                <path d="M11 5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Zm-9 8c0 1 1 1 1 1h5.256A4.493 4.493 0 0 1 8 12.5a4.49 4.49 0 0 1 1.544-3.393C9.077 9.038 8.564 9 8 9c-5 0-6 3-6 4Zm9.886-3.54c.18-.613 1.048-.613 1.229 0l.043.148a.64.64 0 0 0 .921.382l.136-.074c.561-.306 1.175.308.87.869l-.075.136a.64.64 0 0 0 .382.92l.149.045c.612.18.612 1.048 0 1.229l-.15.043a.64.64 0 0 0-.38.921l.074.136c.305.561-.309 1.175-.87.87l-.136-.075a.64.64 0 0 0-.92.382l-.045.149c-.18.612-1.048.612-1.229 0l-.043-.15a.64.64 0 0 0-.921-.38l-.136.074c-.561.305-1.175-.309-.87-.87l.075-.136a.64.64 0 0 0-.382-.92l-.148-.045c-.613-.18-.613-1.048 0-1.229l.148-.043a.64.64 0 0 0 .382-.921l-.074-.136c-.306-.561.308-1.175.869-.87l.136.075a.64.64 0 0 0 .92-.382l.045-.148ZM14 12.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z"/>
+              </svg> <span>Profile Settings</span></a
+            >
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

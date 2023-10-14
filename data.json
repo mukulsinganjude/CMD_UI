@@ -1,0 +1,529 @@
+{
+  "dashboard": [
+    {
+      "name": "Bernardo Galaviz",
+      "address": "New York, USA",
+      "docname": "Dr. Cristina Groves",
+      "time": "7.00 PM"
+    },
+    {
+      "name": "Bernardo Galaviz",
+      "address": "New York, USA",
+      "docname": "Dr. Cristina Groves",
+      "time": "2.00 PM"
+    },
+    {
+      "name": "Bernardo Galaviz",
+      "address": "New York, USA",
+      "docname": "Dr. Cristina Groves",
+      "time": "3.00 PM"
+    },
+    {
+      "name": "Bernardo Galaviz",
+      "address": "New York, USA",
+      "docname": "Dr. Cristina Groves",
+      "time": "4.00 PM"
+    },
+    {
+      "name": "Bernardo Galaviz",
+      "address": "New York, USA",
+      "docname": "Dr. Cristina Groves",
+      "time": "5.00 PM"
+    },
+    {
+      "name": "Bernardo Galaviz",
+      "address": "New York, USA",
+      "docname": "Dr. Cristina Groves",
+      "time": "6.00 PM"
+    }
+  ],
+  "dashboardDoctor": [
+    {
+      "img": "assets/img/doctor-thumb-03.jpg",
+      "name": "Cristina Groves",
+      "qualification": "MBBS, MD"
+    },
+    {
+      "img": "assets/img/doctor-thumb-04.jpg",
+      "name": "Marie Wells",
+      "qualification": "MD"
+    },
+    {
+      "img": "assets/img/doctor-thumb-05.jpg",
+      "name": "Henry Daniels",
+      "qualification": "MBBS, MD"
+    },
+    {
+      "img": "assets/img/doctor-thumb-06.jpg",
+      "name": "Mark Hunter",
+      "qualification": "MD"
+    },
+    {
+      "img": "assets/img/doctor-thumb-07.jpg",
+      "name": "Michael Sullivan",
+      "qualification": "MBBS, MD"
+    },
+    {
+      "img": "assets/img/doctor-thumb-08.jpg",
+      "name": "Linda Barrett",
+      "qualification": "MD"
+    }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "img": "assets/img/doctor-thumb-03.jpg",
+      "fname": "Cristina",
+      "lname": "Groves",
+      "specialty": "Gynecologist",
+      "country": " United Kingdom",
+      "state": "San Francisco"
+    },
+    {
+      "id": 2,
+      "img": "assets/img/doctor-thumb-07.jpg",
+      "fname": "Marie",
+      "lname": "Wells",
+      "specialty": "Psychiatrist",
+      "country": " United Kingdom",
+      "state": "San Francisco"
+    },
+    {
+      "id": 3,
+      "img": "assets/img/doctor-thumb-04.jpg",
+      "fname": "Henry",
+      "lname": "Daniels",
+      "specialty": "Cardiologist",
+      "country": " United Kingdom",
+      "state": "San Francisco"
+    },
+    {
+      "id": 4,
+      "img": "assets/img/doctor-thumb-11.jpg",
+      "fname": "Mark",
+      "lname": "Hunter",
+      "specialty": "Urologist",
+      "country": " United Kingdom",
+      "state": "San Francisco"
+    },
+    {
+      "id": 5,
+      "img": "assets/img/doctor-thumb-09.jpg",
+      "fname": "Michael",
+      "lname": "Sullivan",
+      "specialty": "Ophthalmologist",
+      "country": " United Kingdom",
+      "state": "San Francisco"
+    },
+    {
+      "id": 6,
+      "img": "assets/img/doctor-thumb-01.jpg",
+      "fname": "Linda",
+      "lname": " Barrett",
+      "specialty": "Dentist",
+      "country": " United Kingdom",
+      "state": "San Francisco"
+    },
+    {
+      "id": 7,
+      "img": "assets/img/doctor-thumb-05.jpg",
+      "fname": "Ronald",
+      "lname": "Jacobs",
+      "specialty": "Oncologist",
+      "country": " United Kingdom",
+      "state": "San Francisco"
+    },
+    {
+      "id": 8,
+      "img": "assets/img/doctor-thumb-10.jpg",
+      "fname": "Albert",
+      "lname": "Sandoval",
+      "specialty": "Neurologist",
+      "country": " United Kingdom",
+      "state": "San Francisco"
+    },
+    {
+      "id": 9,
+      "img": "assets/img/doctor-thumb-08.jpg",
+      "fname": "Diana",
+      "lname": "Bailey",
+      "specialty": "General Surgery",
+      "country": " United Kingdom",
+      "state": "San Francisco"
+    },
+    {
+      "id": 10,
+      "img": "assets/img/doctor-thumb-06.jpg",
+      "fname": "Shirley",
+      "lname": "Willis",
+      "specialty": "Radiologist",
+      "country": " United Kingdom",
+      "state": "San Francisco"
+    },
+    {
+      "id": 11,
+      "img": "assets/img/doctor-thumb-09.jpg",
+      "fname": "Pamela",
+      "lname": "Curtis",
+      "specialty": "Pediatrics",
+      "country": " United Kingdom",
+      "state": "San Francisco"
+    },
+    {
+      "id": 12,
+      "img": "assets/img/doctor-thumb-07.jpg",
+      "fname": "Justin",
+      "lname": "Parker  ",
+      "specialty": "Physical Therapist",
+      "country": " United Kingdom",
+      "state": "San Francisco"
+    }
+  ],
+  "patient": [
+    {
+      "id": 1,
+      "img": "assets/img/patient4.jpg",
+      "name": "Jennifer Robinson",
+      "Age": 25,
+      "address": "1545 Dorsey Ln NE, Leland, NC, 28451",
+      "country": " United Kingdom",
+      "state": "San Francisco",
+      "phone": "(207) 808 8863",
+      "email": "jenniferrobinson@example.com"
+    },
+    {
+      "id": 2,
+      "img": "assets/img/patient5.jpg",
+      "name": "Terry Baker",
+      "Age": 63,
+      "address": "555 Front St #APT 2H, Hempstead, NY, 11550",
+      "country": " United Kingdom",
+      "state": "San Francisco",
+      "phone": "(376) 150 6975",
+      "email": "terrybaker@example.com"
+    },
+    {
+      "id": 3,
+      "img": "assets/img/patient6.jpg",
+      "name": "Kyle Bowman",
+      "Age": 14,
+      "address": "5060 Fairways Cir #APT 207, Vero Beach, FL, 32967",
+      "country": " United Kingdom",
+      "state": "San Francisco",
+      "phone": "(634) 09 3833",
+      "email": "kylebowman@example.com"
+    },
+    {
+      "id": 4,
+      "img": "assets/img/patient7.jpg",
+      "name": "Marie Howard",
+      "Age": 22,
+      "address": "3501 New Haven Ave #152, Columbia, MO, 65201",
+      "country": " United Kingdom",
+      "state": "San Francisco",
+      "phone": "(207) 808 8863",
+      "email": "mariehoward@example.com"
+    },
+    {
+      "id": 5,
+      "img": "assets/img/patient8.jpg",
+      "name": "Joshua Guzman",
+      "Age": 34,
+      "address": "4712 Spring Creek Dr, Bonita Springs, FL, 34134",
+      "country": " United Kingdom",
+      "state": "San Francisco",
+      "phone": "(407) 554 4146",
+      "email": "joshuaguzman@example.com"
+    },
+    {
+      "id": 6,
+      "img": "assets/img/patient9.jpg",
+      "name": "Julia Sims",
+      "Age": 27,
+      "address": "517 Walker Dr, Houma, LA, 70364, United States",
+      "country": " United Kingdom",
+      "state": "San Francisco",
+      "phone": "(680) 432 2662",
+      "email": "juliasims@example.com"
+    },
+    {
+      "id": 7,
+      "img": "assets/img/patient10.jpg",
+      "name": "Linda Carpenter",
+      "Age": 24,
+      "address": "2226 Victory Garden Ln, Tallahassee, FL, 32301",
+      "country": " United Kingdom",
+      "state": "San Francisco",
+      "phone": "(218) 661 8316",
+      "email": "lindacarpenter@example.com"
+    },
+    {
+      "id": 8,
+      "img": "assets/img/patient11.jpg",
+      "name": "Melissa Burton",
+      "Age": 35,
+      "address": "3321 N 26th St, Milwaukee, WI, 53206",
+      "country": " United Kingdom",
+      "state": "San Francisco",
+      "phone": "(192) 494 807",
+      "email": "melissaburton@example.com"
+    },
+    {
+      "id": 9,
+      "img": "assets/img/patient12.jpg",
+      "name": "Patrick Knight",
+      "Age": 21,
+      "address": "Po Box 3336, Commerce, TX, 75429",
+      "country": " United Kingdom",
+      "state": "San Francisco",
+      "phone": "(785) 580 4514",
+      "email": "patrickknight@example.com"
+    },
+    {
+      "id": 10,
+      "img": "assets/img/patient4.jpg",
+      "name": "Denise Stevens",
+      "Age": 23,
+      "address": "1603 Old York Rd, Abington, PA, 19001",
+      "country": " United Kingdom",
+      "state": "San Francisco",
+      "phone": "(836) 257 1379",
+      "email": "denisestevens@example.com"
+    },
+    {
+      "id": 11,
+      "img": "assets/img/patient5.jpg",
+      "name": "Judy Clark",
+      "Age": 22,
+      "address": "4093 Woodside Circle, Pensacola, FL, 32514",
+      "country": " United Kingdom",
+      "state": "San Francisco",
+      "phone": "(359) 969 3594",
+      "email": "judy.clark@example.co"
+    },
+    {
+      "id": 13,
+      "img": "assets/img/patient6.jpg",
+      "name": "Dennis Salazar",
+      "Age": 34,
+      "address": "891 Juniper Drive, Saginaw, MI, 48603",
+      "country": " United Kingdom",
+      "state": "San Francisco",
+      "phone": "(933) 137 6201",
+      "email": "dennissalazar@example.com"
+    },
+    {
+      "id": 14,
+      "img": "assets/img/patient7.jpg",
+      "name": "Charles Ortega",
+      "Age": 32,
+      "address": "3169 Birch Street, El Paso, TX, 79915",
+      "country": " United Kingdom",
+      "state": "San Francisco",
+      "phone": "(380) 141 1885",
+      "email": "charlesortega@example.com"
+    },
+    {
+      "id": 15,
+      "img": "assets/img/patient8.jpg",
+      "name": "Sandra Mendez",
+      "Age": 24,
+      "address": "2535 Linden Avenue, Orlando, FL, 32789",
+      "country": " United Kingdom",
+      "state": "San Francisco",
+      "phone": "(797) 506 1265",
+      "email": "sandramendez@example.com"
+    },
+    {
+      "id": 16,
+      "img": "assets/img/patient8.jpg",
+      "name": "Sandra Mendez",
+      "Age": 24,
+      "username": " ",
+      "address": "2535 Linden Avenue, Orlando, FL, 32789",
+      "goladdress": " United States, San Francisco",
+      "phone": "(797) 506 1265",
+      "email": "sandramendez@example.com",
+      "pwd": " ",
+      "cpwd": " ",
+      "DOB": " ",
+      "gender": " ",
+      "country": " ",
+      "city": " ",
+      "state": " ",
+      "pincode": " ",
+      "shortbio": " ",
+      "status": " "
+    }
+  ],
+  "appointments": [
+    {
+      "id": "APT-001",
+      "img": "assets/img/patient4.jpg",
+      "name": "Jennifer Robinson",
+      "age": 25,
+      "docname": "Henry Daniels",
+      "country": "United States",
+      "city": " ",
+      "state": "San Francisco",
+      "department": "Cardiology",
+      "appodate": "30 Dec 2022",
+      "appotime": "10am - 11am",
+      "states": "Inactive"
+    },
+    {
+      "id": "APT-002",
+      "img": "assets/img/patient5.jpg",
+      "name": "Terry Baker",
+      "age": 63,
+      "docname": "Henry Daniels",
+      "country": "United States",
+      "city": " ",
+      "state": "San Francisco",
+      "department": "Cardiology",
+      "appodate": "28 Dec 2022",
+      "appotime": "10am - 11am",
+      "states": "Inactive"
+    },
+    {
+      "id": "APT-003",
+      "img": "assets/img/patient6.jpg",
+      "name": "Cristina Groves",
+      "age": 36,
+      "docname": "Henry Daniels",
+      "country": "United States",
+      "city": " ",
+      "state": "San Francisco",
+      "department": "Cardiology",
+      "appodate": "28 Dec 2022",
+      "appotime": "10am - 11am",
+      "states": "Active"
+    },
+    {
+      "id": "APT-004",
+      "img": "assets/img/patient7.jpg",
+      "name": "Marie Wells",
+      "age": 56,
+      "docname": "Henry Daniels",
+      "country": "United States",
+      "city": " ",
+      "state": "San Francisco",
+      "department": "Cardiology",
+      "appodate": "28 Dec 2022",
+      "appotime": "10am - 11am",
+      "states": "Active"
+    },
+    {
+      "id": "APT-005",
+      "img": "assets/img/patient8.jpg",
+      "name": "Mark Hunter",
+      "age": 35,
+      "docname": "Henry Daniels",
+      "country": "United States",
+      "city": " ",
+      "state": "San Francisco",
+      "department": "Cardiology",
+      "appodate": "28 Dec 2022",
+      "appotime": "10am - 11am",
+      "states": "Active"
+    },
+    {
+      "id": "APT-006",
+      "img": "assets/img/patient9.jpg",
+      "name": "Michael Sullivan",
+      "age": 24,
+      "docname": "Henry Daniels",
+      "country": "United States",
+      "city": " ",
+      "state": "San Francisco",
+      "department": "Cardiology",
+      "appodate": "28 Dec 2022",
+      "appotime": "10am - 11am",
+      "states": "Inactive"
+    },
+    {
+      "id": "APT-007",
+      "img": "assets/img/patient10.jpg",
+      "name": "Linda Barrett",
+      "age": 24,
+      "docname": "Henry Daniels",
+      "country": "United States",
+      "city": " ",
+      "state": "San Francisco",
+      "department": "Cardiology",
+      "appodate": "28 Dec 2022",
+      "appotime": "10am - 11am",
+      "states": "Active"
+    },
+    {
+      "id": "APT-008",
+      "img": "assets/img/patient11.jpg",
+      "name": "Albert Sandoval",
+      "age": 43,
+      "docname": "Henry Daniels",
+      "country": "United States",
+      "city": " ",
+      "state": "San Francisco",
+      "department": "Cardiology",
+      "appodate": "28 Dec 2022",
+      "appotime": "10am - 11am",
+      "states": "Inactive"
+    }
+  ],
+  "department": [
+    {
+      "name": "Charles Ortega",
+      "description": "Dentist",
+      "status": "Active",
+      "id": 1
+    },
+    {
+      "name": "Cristina Groves",
+      "description": "Gynecologist",
+      "status": "Inactive",
+      "id": 2
+    },
+    {
+      "name": "Marie Wells",
+      "description": "Psychiatrist",
+      "status": "Active",
+      "id": 3
+    },
+    {
+      "name": "Henry Daniels",
+      "description": "Cardiologist",
+      "status": "Inactive",
+      "id": 4
+    },
+    {
+      "name": "Mark Hunter",
+      "description": "Urologist",
+      "status": "Active",
+      "id": 5
+    },
+    {
+      "name": "Michael Sullivan",
+      "description": "Ophthalmologist",
+      "status": "Active",
+      "id": 6
+    },
+    {
+      "name": "Ronald Jacobs",
+      "description": "Oncologist",
+      "status": "Inactive",
+      "id": 7
+    },
+    {
+      "name": "Albert Sandoval",
+      "description": "Neurologist",
+      "status": "Active",
+      "id": 8
+    },
+    {
+      "name": "Diana Bailey",
+      "description": "General Surgery",
+      "status": "Inactive",
+      "id": 9
+    }
+  ]
+}
